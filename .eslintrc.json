@@ -1,0 +1,18 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "func-names": ["error", "never"],
+    "import/prefer-default-export": "off",
+    "linebreak-style": "off",
+    "object-shorthand": "off",
+    "object-curly-newline": "off",
+    "prefer-destructuring": "off",
+    "import/extensions": "off",
+    "prefer-const": "off",
+    "max-len": "off",
+    "no-plusplus": "off",
+    "no-nested-ternary": "off",
+    "no-confusing-arrow": "off",
+    "no-else-return": "off"
+  }
+}
