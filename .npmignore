@@ -1,0 +1,4 @@
+docs/
+.eslintrc.json
+.babelrc
+.env
