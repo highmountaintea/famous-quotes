@@ -1,0 +1,15 @@
+export { buddha } from './buddha.mjs';
+export { edison } from './edison.mjs';
+export { gates } from './gates.mjs';
+export { hawking } from './hawking.mjs';
+export { jobs } from './jobs.mjs';
+export { keller } from './keller.mjs';
+export { king } from './king.mjs';
+export { nightingale } from './nightingale.mjs';
+export { churchill } from './churchill.mjs';
+export { einstein } from './einstein.mjs';
+export { lennon } from './lennon.mjs';
+export { lincoln } from './lincoln.mjs';
+export { twain } from './twain.mjs';
+export { wilde } from './wilde.mjs';
+export { zanuck } from './zanuck.mjs';
