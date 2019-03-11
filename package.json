@@ -1,6 +1,6 @@
 {
   "name": "@idgen/famous-quotes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Provides some famous quotes. Structured in a way for testing webpack/rollup tree-shaking and file size",
   "main": "module/index.mjs",
   "scripts": {

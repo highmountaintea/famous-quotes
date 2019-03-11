@@ -1,3 +1,9 @@
+import * as Funny from './Funny.mjs';
+import * as Motivational from './Motivational.mjs';
+import * as Success from './Success.mjs';
+import * as Universe from './Universe.mjs';
+
+export { Funny, Motivational, Success, Universe };
 export { buddha } from './buddha.mjs';
 export { edison } from './edison.mjs';
 export { gates } from './gates.mjs';
